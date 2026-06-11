@@ -7,7 +7,6 @@ Seules les versions listées ci-dessous reçoivent activement des correctifs de 
 | Version | Supportée |
 | ------- | --------- |
 | v1.x    | ✅ Oui     |
-| < v1.0  | ❌ Non     |
 
 ## Signaler une Vulnérabilité
 
